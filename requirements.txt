@@ -1,0 +1,9 @@
+pillow
+pytesseract
+ollama
+pydantic>=2
+python-dateutil
+pytest
+opencv-python
+numpy
+scipy
